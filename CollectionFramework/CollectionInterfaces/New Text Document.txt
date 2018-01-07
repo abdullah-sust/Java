@@ -1,0 +1,7 @@
+ListInterfaceDemo
+SetInterfaceDemo
+SortedSetInterfaceDemo
+NavigableSetInterfaceDemo
+QueueInterfaceDemo
+DequeInterfaceDemo
+MapInterfaceDemo
